@@ -1,23 +1,30 @@
+# PSFree version 1.5.0
 
-<!DOCTYPE html>
-<html lang="ar" dir="rtl">
-<head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <h1>🎮 حسين للألعاب الإلكترونية 🎮</h1></head>
-<body style="font-family: sans-serif; background: #111111; color: rgb(255, 255, 255); text-align:center; padding:40px;">
-  <p>   "عالمك الخاص بالألعاب يبدأ من هنا:</p>
-  <p><a href="https://instagram.com/XPSP54" style="color:#f0f">📸 Instagram</a></p>
-  <p><a href="https://www.tiktok.com/@ps53507?_t=ZS-8zogFrJFZZZ&_r=1" style="color:#0ff">🎵 TikTok</a></p>
-  <p><a href="https://www.facebook.com/share/1JQFJiBscM/" style="color:#0af">📘 Facebook</a></p>
-   <div class="actions">
-        <a class="btn" href="https://wa.me/9647708222300" target="_blank" rel="noopener" aria-label="الواتساب 07708222300">تواصل واتساب</a>
-        <a class="btn" href="mailto:contact@example.com" aria-label="راسلنا بالبريد"></a>
-     <div class="phones" aria-label="أرقام التواصل">
-        <a class="phone" href="tel:+9647708222300" aria-label="اتصال 07708222300">📞 0770 822 2300</a>
-        <a class="phone" href="tel: aria-label="اتصال 07836922133>📞07836922133</a>
-      </div>
+Lapse Kex ported to 9.00 - Still WIP
 
+Very fast and reliable but can KP :P
+
+- Needs a bin loader on Port 9020.
+- Some performance Tweaks??.
+- Add sysveri Patch
   
-           
-      
+PR are welcome 
+
+PSFree is a collection of exploits for the PS4 console. The main focus of the 
+repo is for the PS4 but we try to make things portable to PS5.
+
+* Exploits
+  * PSFree: src/psfree.mjs
+  * Lapse (kernel): src/scripts/lapse.mjs
+
+Donation (Monero/XMR):
+86Fk3X9AE94EGKidzRbvyiVgGNYD3qZnuKNq1ZbsomFWXHYm6TtAgz9GNGitPWadkS3Wr9uXoT29U1SfdMtJ7QNKQpW1CVS
+
+# COPYRIGHT AND AUTHORS:
+AGPL-3.0-or-later (see src/COPYING). This repo belongs to the group
+`anonymous`. We refer to anonymous contributors as "anonymous" as well.
+
+# CREDITS:
+* anonymous for PS4 firmware kernel dumps
+* Check the appropriate files for any **extra** contributors. Unless otherwise
+  stated, everything here can also be credited to us.
